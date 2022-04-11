@@ -8,4 +8,8 @@ Run the following in client foler
  npm start
 ```
 
-Deployed based on the AWS [here](http://lzh-env.eba-rjhm5xm5.us-west-1.elasticbeanstalk.com/) 
+Deployed the web on the AWS [here](http://lzh-env.eba-rjhm5xm5.us-west-1.elasticbeanstalk.com/) 
+
+<img width="592" alt="homepage" src="https://user-images.githubusercontent.com/23133353/162649141-721ed48d-2826-4546-bd39-eb93138e9691.png">
+
+password for export csv is: molab
